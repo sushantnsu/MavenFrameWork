@@ -18,7 +18,7 @@ public class LoginTestCRM extends BaseClass {
 	@Test(priority = 1)
 	public void loginApp()
 	{
-		
+		//try
 		 logger = report.createTest("Login to CRM");
 		
 		  //initializing LoginPage 
